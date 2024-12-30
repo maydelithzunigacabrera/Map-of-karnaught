@@ -1,5 +1,5 @@
-🎯The purpose: Identify the function of a Karnaught map
-⚙️Functions in C++:
+🎯The purpose: Identify the function of a Karnaught map                                                                                                                           
+ ⚙️Functions in C++:
   - Table generation
   - Option to enter variables
   - Karnaugh Map Generation
