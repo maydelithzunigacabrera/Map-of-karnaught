@@ -1,0 +1,2 @@
+C:\Users\Caroline\Desktop\MATE DISCRETA\TRABAJO FINAL\TA_MATE DISCRETA\x64\Debug\TA_MATE DISCRETA.exe
+C:\Users\Caroline\Desktop\MATE DISCRETA\TRABAJO FINAL\TA_MATE DISCRETA\x64\Debug\TA_MATE DISCRETA.vcxproj.AssemblyReference.cache
